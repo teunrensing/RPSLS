@@ -29,4 +29,12 @@ The signs come from the famous TV show *The Big Bang Theory*, where Sheldon intr
 ```plaintext
 rpsls_ml_dl/
 
-── README.md          # Project documentation
+├── Data/              # Hand sign images (Rock, Paper, Scissors, Lizard, Spock)
+├── Dev/         # Jupyter notebooks for experiments
+├── Models/            # Saved ML/DL models
+├── Src/               # Source code
+│   ├── Preprocessing/ # Data augmentation & preprocessing
+│   ├── Training/      # Model training scripts
+│   ├── Evaluation/    # Model testing & metrics
+│   └── Inference/     # Run trained model for prediction
+└── README.md          # Project documentation
