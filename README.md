@@ -1,4 +1,4 @@
-# Rock Paper Scissors Lizard Spock (RPSLS) ✋✌️🖖🖐️👊
+# Rock Paper Scissors Lizard Spock (RPSLS) 👊✋✌️🤏🖖
 
 ![RPSLS Rules](628c1c37-8f35-46f2-a8d5-a9caa77e69d9.png)
 
